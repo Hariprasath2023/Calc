@@ -25,8 +25,21 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 ## PROGRAM :
+![image](https://github.com/PREETHI3312/Calc/assets/151625222/5151eaf0-9e55-40a1-9425-ba1cf4f1e54f)
+
+![image](https://github.com/PREETHI3312/Calc/assets/151625222/e6ebfe4b-f79f-4fed-af07-5bed30865459)
+
+![image](https://github.com/PREETHI3312/Calc/assets/151625222/6d6feb39-00d2-4ad6-816c-3896834560a4)
+
+![image](https://github.com/PREETHI3312/Calc/assets/151625222/146d6ee0-3a12-4465-9058-210121fcafed)
+
+![image](https://github.com/PREETHI3312/Calc/assets/151625222/0c18da8b-f73a-40f7-89fc-0895ee487417)
 
 ## OUTPUT:
+
+![image](https://github.com/PREETHI3312/Calc/assets/151625222/8c9e6715-638d-499e-929d-13a9a8746b36)
+
+![image](https://github.com/PREETHI3312/Calc/assets/151625222/61d01272-0298-4a8c-8e0c-937277cdc127)
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
